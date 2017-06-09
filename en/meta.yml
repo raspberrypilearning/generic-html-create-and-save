@@ -1,10 +1,10 @@
 title: generic-html-create-and-save
 hero_image: images/banner.png
-description: generic-html-create-and-save description
+description: Create and save a HTML file
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: cc-prototype
 duration: 1 # 1, 2 or 3
-ingredient: false
+ingredient: true
 listed: false
 steps:
   - title: Step one
