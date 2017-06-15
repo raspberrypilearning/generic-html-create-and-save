@@ -1,5 +1,3 @@
-## Create and save a HTML file
-
  -  If you're using **Notepad** on Windows, type in the filename as `index.html` and also change the drop-down for the 'Save as' type to *All files*.
 
   ![Save as HTML using Notepad](images/save-as-html-notepad.png)
