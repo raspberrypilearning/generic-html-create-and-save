@@ -1,7 +1,4 @@
---- step ---
----
-title: Create and save a HTML file
----
+## Create and save a HTML file
 
  -  If you're using **Notepad** on Windows, type in the filename as `index.html` and also change the drop-down for the 'Save as' type to *All files*.
 
@@ -19,7 +16,4 @@ title: Create and save a HTML file
 
   ![Nano creating HTML](images/pi-html-nano.png)
 
- - If you're using [CodePen](http://codepen.io), simply open up a new pen
-
-
---- /step ---
+ - If you're using [CodePen](http://codepen.io){:target="_blank"}, simply open up a new pen
