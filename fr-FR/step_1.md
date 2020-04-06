@@ -1,17 +1,17 @@
- -  If you're using Notepad on Windows, type in the file name `index.html` and change the drop-down for the **Save as type** to **All files**.
+ -  Si tu utilises le Bloc-notes sous Windows, saisis `index.html` dans le champ « nom du fichier » et change dans la liste déroulante de la section **Type** sur **Tous les fichiers**.
 
-  ![Save as HTML using Notepad](images/save-as-html-notepad.png)
+  ![Enregistrer au format HTML à l'aide du Bloc-notes](images/save-as-html-notepad.png)
 
- - If you're using TextEdit on Mac OS, open a new file, then select **Format** > **Make Plain Text**.
+ - Si tu utilises TextEdit sur Mac OS, ouvre un nouveau fichier, puis sélectionne **Format** > **Convertir au format Texte**.
 
-  ![Mac make plain text](images/mac-make-plaintext.png)
+  ![Mac convertir au format texte](images/mac-make-plaintext.png)
 
-  Make sure you save the file as `index.html`.
+  Assure-toi d'enregistrer le fichier en tant que `index.html`.
 
-  ![Mac saving as HTML](images/mac-name-file.png)
+  ![Enregistrement Mac au format HTML](images/mac-name-file.png)
 
- - If you're using Nano on a Raspberry Pi, open a terminal window, move to the directory you wish to create your webpage in, and type `nano index.html`.
+ - Si tu utilises Nano sur un Raspberry Pi, ouvre une fenêtre de terminal, accède au répertoire dans lequel tu souhaites créer ta page Web et tape `nano index.html`.
 
-  ![Nano creating HTML](images/pi-html-nano.png)
+  ![Nano création HTML](images/pi-html-nano.png)
 
- - If you're using [CodePen](http://codepen.io){:target="_blank"}_, simply open up a new pen.
+ - Si tu utilises [CodePen](http://codepen.io){: target="_blank"}_, ouvre simplement un nouveau « pen ».
