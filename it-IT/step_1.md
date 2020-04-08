@@ -1,4 +1,4 @@
- -  If you're using Notepad on Windows, type in the file name `index.html` and change the drop-down for the **Save as type** to **All files**.
+ -  Se stai usando Blocco note su Windows, digita il nome del file `index.html` e scegli **Tutti i file** dal menu a discesa **Salva come**.
 
   ![Salva come HTML utilizzando Blocco note](images/save-as-html-notepad.png)
 
@@ -14,4 +14,4 @@
 
   ![Nano crea file HTML](images/pi-html-nano.png)
 
- - If you're using [CodePen](http://codepen.io){:target="_blank"}_, simply open up a new pen.
+ - Se stai usando [CodePen](http://codepen.io){:target="_blank"}_, apri semplicemente una nuova Pen.
