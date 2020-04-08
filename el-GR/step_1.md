@@ -1,14 +1,14 @@
- -  If you're using Notepad on Windows, type in the file name `index.html` and change the drop-down for the **Save as type** to **All files**.
+ -  Εάν χρησιμοποιείς το Σημειωματάριο στα Windows, πληκτρολόγησε το όνομα αρχείου `index.html` και άλλαξε το αναδυόμενο μενού από **Αποθήκευση ως τύπος** σε **Όλα τα αρχεία**.
 
-  ![Save as HTML using Notepad](images/save-as-html-notepad.png)
+  ![Αποθήκευση ως HTML με τη χρήση του Σημειωματάριου](images/save-as-html-notepad.png)
 
- - If you're using TextEdit on Mac OS, open a new file, then select **Format** > **Make Plain Text**.
+ - Εάν χρησιμοποιείς το TextEdit σε Mac OS, άνοιξε ένα νέο αρχείο και στη συνέχεια επέλεξε **Διαμόρφωση** > **Μετατροπή σε απλό κείμενο**.
 
   ![Mac make plain text](images/mac-make-plaintext.png)
 
-  Make sure you save the file as `index.html`.
+  Βεβαιώσου ότι έχεις αποθηκεύσει το αρχείο ως `index.html`.
 
-  ![Mac saving as HTML](images/mac-name-file.png)
+  ![Αποθήκευση ως HTML σε Mac](images/mac-name-file.png)
 
  - If you're using Nano on a Raspberry Pi, open a terminal window, move to the directory you wish to create your webpage in, and type `nano index.html`.
 
