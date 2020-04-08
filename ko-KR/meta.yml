@@ -1,0 +1,14 @@
+---
+title: HTML 파일 생성 및 저장
+hero_image: images/banner.png
+description: HTML 파일 생성 및 저장
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+ingredient: true
+listed: false
+copyedit: true
+interests: ""
+technologies: "html"
+steps:
+  - title: HTML 파일 작성 및 저장
