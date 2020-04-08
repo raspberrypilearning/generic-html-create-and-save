@@ -4,14 +4,14 @@
 
  - Εάν χρησιμοποιείς το TextEdit σε Mac OS, άνοιξε ένα νέο αρχείο και στη συνέχεια επέλεξε **Διαμόρφωση** > **Μετατροπή σε απλό κείμενο**.
 
-  ![Mac make plain text](images/mac-make-plaintext.png)
+  ![Μετατροπή Mac σε απλό κείμενο](images/mac-make-plaintext.png)
 
   Βεβαιώσου ότι έχεις αποθηκεύσει το αρχείο ως `index.html`.
 
   ![Αποθήκευση ως HTML σε Mac](images/mac-name-file.png)
 
- - If you're using Nano on a Raspberry Pi, open a terminal window, move to the directory you wish to create your webpage in, and type `nano index.html`.
+ - Εάν χρησιμοποιείς το Nano σε ένα Raspberry Pi, άνοιξε ένα παράθυρο τερματικού, μετακινήσου στον κατάλογο στον οποίο επιθυμείς να δημιουργήσεις την ιστοσελίδα σου και πληκτρολόγησε `nano index.html`.
 
-  ![Nano creating HTML](images/pi-html-nano.png)
+  ![Nano δημιουργία HTML](images/pi-html-nano.png)
 
- - If you're using [CodePen](http://codepen.io){:target="_blank"}_, simply open up a new pen.
+ - Εάν χρησιμοποιείς [CodePen](http://codepen.io){: target = "_blank"}_, απλά άνοιξε μια νέα πένα.
