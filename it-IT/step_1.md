@@ -1,4 +1,4 @@
- -  If you're using Notepad on Windows, type in the file name `index.html` and change the drop-down for the **Save as type** to **All files**.
+ -  Se stai usando Blocco note su Windows, digita il nome del file `index.html` e scegli **Tutti i file** dal menu a discesa **Salva come**.
 
   ![Save as HTML using Notepad](images/save-as-html-notepad.png)
 
