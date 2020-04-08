@@ -1,7 +1,7 @@
 ---
-title: Create and save a HTML file
-hero_image: images/banner.png
-description: Create and save a HTML file
+title: Crea y guarda un archivo HTML
+hero_image: images / banner.png
+description: Crea y guarda un archivo HTML
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -12,4 +12,4 @@ interests: ""
 technologies: "html"
 steps:
   - 
-    title: Create and save and HTML file
+    title: Crear y guardar un archivo HTML
