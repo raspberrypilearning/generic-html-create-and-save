@@ -1,0 +1,14 @@
+---
+title: Crea y guarda un archivo HTML
+hero_image: images/banner.png
+description: Crea y guarda un archivo HTML
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+ingredient: true
+listed: false
+copyedit: true
+interests: ""
+technologies: "html"
+steps:
+  - title: Crear y guardar un archivo HTML
