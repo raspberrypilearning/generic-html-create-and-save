@@ -1,17 +1,17 @@
- -  If you're using Notepad on Windows, type in the file name `index.html` and change the drop-down for the **Save as type** to **All files**.
+ -  Als je Kladblok op Windows gebruikt, typ dan als bestandsnaam `index.html` in en wijzig de keuzelijst voor **Opslaan als** in **Alle bestanden**.
 
-  ![Save as HTML using Notepad](images/save-as-html-notepad.png)
+  ![Sla op als HTML met Kladblok](images/save-as-html-notepad.png)
 
- - If you're using TextEdit on Mac OS, open a new file, then select **Format** > **Make Plain Text**.
+ - Als je TextEdit op Mac OS gebruikt, open dan een nieuw bestand en selecteer vervolgens **Formaat** > **Maak tekst zonder opmaak**.
 
-  ![Mac make plain text](images/mac-make-plaintext.png)
+  ![Mac maakt platte tekst](images/mac-make-plaintext.png)
 
-  Make sure you save the file as `index.html`.
+  Zorg ervoor dat je het bestand opslaat als `index.html`.
 
-  ![Mac saving as HTML](images/mac-name-file.png)
+  ![Mac opslaan als HTML](images/mac-name-file.png)
 
- - If you're using Nano on a Raspberry Pi, open a terminal window, move to the directory you wish to create your webpage in, and type `nano index.html`.
+ - Als je Nano op een Raspberry Pi gebruikt, open dan een terminalvenster, ga naar de map waarin je je webpagina wilt maken en typ `nano index.html`.
 
-  ![Nano creating HTML](images/pi-html-nano.png)
+  ![Nano maakt HTML](images/pi-html-nano.png)
 
- - If you're using [CodePen](http://codepen.io){:target="_blank"}_, simply open up a new pen.
+ - Als je [CodePen](http://codepen.io){:target="_blank"}_ gebruikt, open dan gewoon een nieuwe pen.
