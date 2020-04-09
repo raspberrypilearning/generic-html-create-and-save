@@ -1,4 +1,4 @@
- -  Če uporabljaš Beležnico (Notepad) v operacijskem sistemu Windows, vnesi ime datoteke `index.html` in v seznamu spustnega meniju za **Shrani kot vrsto** izberite **Vse datoteke**.
+ -  Če uporabljaš Beležnico (Notepad) v operacijskem sistemu Windows, vnesi ime datoteke `index.html` in v seznamu spustnega meniju za **Save as type (Shrani kot vrsto)** izberite **All Files (Vse datoteke)**.
 
   ![Shrani kot HTML s pomočjo Beležnice](images/save-as-html-notepad.png)
 
