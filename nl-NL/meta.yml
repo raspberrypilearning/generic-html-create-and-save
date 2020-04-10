@@ -1,0 +1,14 @@
+---
+title: Maak een HTML-bestand en sla het op
+hero_image: images/banner.png
+description: Maak een HTML-bestand en sla het op
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+ingredient: true
+listed: false
+copyedit: true
+interests: ""
+technologies: "html"
+steps:
+  - title: Maak en bewaar en HTML-bestand
