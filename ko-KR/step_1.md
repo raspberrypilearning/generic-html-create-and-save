@@ -2,7 +2,7 @@
 
   ![메모장을 사용하여 HTML로 저장](images/save-as-html-notepad.png)
 
- - Mac OS에서 TextEdit을 사용하는 경우 새 파일을 연 다음 **형식** > **일반 텍스트 만들기**를 선택하십시오.
+ - Mac OS에서 TextEdit을 사용하는 경우 새 파일을 연 다음 **포맷** > **일반 텍스트 만들기**를 선택하십시오.
 
   ![Mac에서 일반 텍스트 만들기](images/mac-make-plaintext.png)
 
