@@ -1,17 +1,17 @@
- -  If you're using Notepad on Windows, type in the file name `index.html` and change the drop-down for the **Save as type** to **All files**.
+ -  Windows でメモ帳を使用している場合は、ファイル名 `index.html` を入力し、 **ファイルの種類**のドロップダウンから **すべてのファイル**を選びます。
 
-  ![Save as HTML using Notepad](images/save-as-html-notepad.png)
+  ![メモ帳を使用してHTMLとして保存](images/save-as-html-notepad.png)
 
- - If you're using TextEdit on Mac OS, open a new file, then select **Format** > **Make Plain Text**.
+ - Mac OS でテキストエディットを使用している場合は、新しいファイルを開いて、 **フォーマット** > **標準テキストにする**を選択します。
 
-  ![Mac make plain text](images/mac-make-plaintext.png)
+  ![Macで標準テキストを作成する](images/mac-make-plaintext.png)
 
-  Make sure you save the file as `index.html`.
+  ファイル名は必ず `index.html`としてください。
 
-  ![Mac saving as HTML](images/mac-name-file.png)
+  ![MacでHTMLとして保存](images/mac-name-file.png)
 
- - If you're using Nano on a Raspberry Pi, open a terminal window, move to the directory you wish to create your webpage in, and type `nano index.html`.
+ - Raspberry Pi で Nano を使用している場合は、ターミナルウィンドウを開き、ウェブページを作成するディレクトリに移動して、 `nano index.html`と入力します。
 
-  ![Nano creating HTML](images/pi-html-nano.png)
+  ![nanoでHTMLを作成](images/pi-html-nano.png)
 
- - If you're using [CodePen](http://codepen.io){:target="_blank"}_, simply open up a new pen.
+ - [CodePen](http://codepen.io){:target="_blank"}_を使用している場合は、新しいペンを開きます。
