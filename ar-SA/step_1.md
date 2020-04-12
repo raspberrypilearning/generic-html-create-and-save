@@ -1,17 +1,17 @@
- -  If you're using Notepad on Windows, type in the file name `index.html` and change the drop-down for the **Save as type** to **All files**.
+ -  إذا كنت تستخدم Notepad على نظام التشغيل Windows ، فاكتب اسم الملف `index.html` وقم بتغيير القائمة المنسدلة لـ **Save as type** to **All files**.
 
-  ![Save as HTML using Notepad](images/save-as-html-notepad.png)
+  ![حفظ بتنسيق HTML باستخدام المفكرة](images/save-as-html-notepad.png)
 
- - If you're using TextEdit on Mac OS, open a new file, then select **Format** > **Make Plain Text**.
+ - إذا كنت تستخدم TextEdit على نظام التشغيل Mac OS ، فافتح ملفًا جديدًا ، ثم حدد **Format** > **Make Plain Text**.
 
   ![Mac make plain text](images/mac-make-plaintext.png)
 
-  Make sure you save the file as `index.html`.
+  تأكد من حفظ الملف كـ `index.html`.
 
   ![Mac saving as HTML](images/mac-name-file.png)
 
- - If you're using Nano on a Raspberry Pi, open a terminal window, move to the directory you wish to create your webpage in, and type `nano index.html`.
+ - إذا كنت تستخدم Nano على Raspberry Pi ، فافتح نافذة طرفية ، وانتقل إلى الدليل الذي ترغب في إنشاء صفحة الويب فيه ، واكتب `nano index.html`.
 
   ![Nano creating HTML](images/pi-html-nano.png)
 
- - If you're using [CodePen](http://codepen.io){:target="_blank"}_, simply open up a new pen.
+ - إذا كنت تستخدم [CodePen](http://codepen.io){: target = "_blank"}_، فما عليك سوى فتح قلم جديد.
