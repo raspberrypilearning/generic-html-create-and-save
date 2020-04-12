@@ -1,7 +1,7 @@
 ---
-title: Create and save a HTML file
+title: एक HTML फाइल बनाएं और सेव करें
 hero_image: images/banner.png
-description: Create and save a HTML file
+description: एक HTML फाइल बनाएं और सेव करें
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -9,7 +9,7 @@ ingredient: true
 listed: false
 copyedit: true
 interests: ""
-technologies: "html"
+technologies: "एचटीएमएल (HTML)"
 steps:
   - 
-    title: Create and save and HTML file
+    title: एक HTML फाइल बनाएं और सेव करें
