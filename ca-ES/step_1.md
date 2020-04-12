@@ -1,17 +1,17 @@
- -  If you're using Notepad on Windows, type in the file name `index.html` and change the drop-down for the **Save as type** to **All files**.
+ -  Si fas servir el Bloc de notes a Windows, escriu el nom del fitxer `index.html` i selecciona en el menú desplegable de **Tipus de fitxer** l'opció **Tots els fitxers**.
 
-  ![Save as HTML using Notepad](images/save-as-html-notepad.png)
+  ![Desant com a HTML mitjançant el Bloc de notes](images/save-as-html-notepad.png)
 
- - If you're using TextEdit on Mac OS, open a new file, then select **Format** > **Make Plain Text**.
+ - Si fas servir TextEdit a Mac OS, obre un fitxer nou i, a continuació, selecciona **Format** > **Convertir en text sense format**.
 
-  ![Mac make plain text](images/mac-make-plaintext.png)
+  ![El Mac convertint a text pla](images/mac-make-plaintext.png)
 
-  Make sure you save the file as `index.html`.
+  Assegura't de desar el fitxer com a `index.html`.
 
-  ![Mac saving as HTML](images/mac-name-file.png)
+  ![El Mac guardant com a HTML](images/mac-name-file.png)
 
- - If you're using Nano on a Raspberry Pi, open a terminal window, move to the directory you wish to create your webpage in, and type `nano index.html`.
+ - Si utilitzes Nano en una Raspberry Pi, obre una finestra del terminal, ves al directori en què vulguis crear la pàgina web i escriu `nano index.html`.
 
-  ![Nano creating HTML](images/pi-html-nano.png)
+  ![El Nano creant HTML](images/pi-html-nano.png)
 
- - If you're using [CodePen](http://codepen.io){:target="_blank"}_, simply open up a new pen.
+ - Si fas servir [CodePen](http://codepen.io){:target="_blank"}_, simplement obre un "pen" nou.
