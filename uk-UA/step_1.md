@@ -14,4 +14,4 @@
 
   ![Створення HTML в Nano](images/pi-html-nano.png)
 
- - Якщо ти використовуєш [CodePen](http://codepen.io){:target="_blank"}_, просто відкрий новий "pen".
+ - If you're using [CodePen](http://codepen.io){:target="_blank"}, simply open up a new pen.
