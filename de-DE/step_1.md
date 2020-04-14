@@ -14,4 +14,4 @@
 
   ![HTML erstellen mit Nano](images/pi-html-nano.png)
 
- - Wenn du [CodePen](http://codepen.io){:target="_blank"}_ verwendest, öffne einfach einen neuen "Pen".
+ - If you're using [CodePen](http://codepen.io){:target="_blank"}, simply open up a new pen.
