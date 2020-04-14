@@ -14,4 +14,4 @@
 
   ![나노에서 HTML 만들기](images/pi-html-nano.png)
 
- - [CodePen](http://codepen.io){: target = "_blank"}_을 사용하는 경우 새 펜을 열면 됩니다.
+ - If you're using [CodePen](http://codepen.io){:target="_blank"}, simply open up a new pen.
