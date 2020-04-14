@@ -14,4 +14,4 @@
 
   ![نانو إنشاء HTML](images/pi-html-nano.png)
 
- - إذا كنت تستخدم [CodePen](http://codepen.io){: target = "_blank"}_، فما عليك سوى فتح قلم جديد.
+ - If you're using [CodePen](http://codepen.io){:target="_blank"}, simply open up a new pen.
