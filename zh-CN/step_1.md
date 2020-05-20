@@ -1,17 +1,17 @@
- -  If you're using Notepad on Windows, type in the file name `index.html` and change the drop-down for the **Save as type** to **All files**.
+ -  如果您在 Windows 上使用记事本，请输入文件名 `index.html` 然后将 **另存为类型** 的下拉列表更改为 **所有文件**。
 
-  ![Save as HTML using Notepad](images/save-as-html-notepad.png)
+  ![使用记事本另存为 HTML](images/save-as-html-notepad.png)
 
- - If you're using TextEdit on Mac OS, open a new file, then select **Format** > **Make Plain Text**.
+ - 如果您在 Mac OS 上使用 TextEdit，请打开一个新文件，然后选择 **格式** > **制作纯文本**。
 
-  ![Mac make plain text](images/mac-make-plaintext.png)
+  ![Mac 制作纯文本](images/mac-make-plaintext.png)
 
-  Make sure you save the file as `index.html`.
+  确保将文件另存为 `index.html`。
 
-  ![Mac saving as HTML](images/mac-name-file.png)
+  ![Mac 另存为 HTML](images/mac-name-file.png)
 
- - If you're using Nano on a Raspberry Pi, open a terminal window, move to the directory you wish to create your webpage in, and type `nano index.html`.
+ - 如果您在Raspberry Pi上使用Nano，请打开终端窗口，移至要在其中创建网页的目录，然后键入` nano index.html。 ` 。
 
-  ![Nano creating HTML](images/pi-html-nano.png)
+  ![Nano 创建 HTML](images/pi-html-nano.png)
 
  - If you're using [CodePen](http://codepen.io){:target="_blank"}, simply open up a new pen.
