@@ -1,17 +1,17 @@
- -  If you're using Notepad on Windows, type in the file name `index.html` and change the drop-down for the **Save as type** to **All files**.
+ -  Se estiveres a usar o Bloco de notas do Windows, digita o nome do arquivo `index.html` e altera o menu suspenso **Salvar como ** para **Todos os arquivos**.
 
-  ![Save as HTML using Notepad](images/save-as-html-notepad.png)
+  ![Salvar como HTML usando o bloco de notas](images/save-as-html-notepad.png)
 
- - If you're using TextEdit on Mac OS, open a new file, then select **Format** > **Make Plain Text**.
+ - Se estiveres a usar o TextEdit no Mac OS, abre um novo arquivo e seleciona **Formato** > **Criar texto sem formatação**.
 
-  ![Mac make plain text](images/mac-make-plaintext.png)
+  ![Mac cria texto sem formatação](images/mac-make-plaintext.png)
 
-  Make sure you save the file as `index.html`.
+  Assegura-te que salvas o arquivo como `index.html`.
 
-  ![Mac saving as HTML](images/mac-name-file.png)
+  ![Mac salvar como HTML](images/mac-name-file.png)
 
- - If you're using Nano on a Raspberry Pi, open a terminal window, move to the directory you wish to create your webpage in, and type `nano index.html`.
+ - Se estiveres a usar o Nano num Raspberry Pi, abre uma janela do terminal, vai até ao diretório em que desejas criar a tua página de internet e escreve `nano index.html`.
 
-  ![Nano creating HTML](images/pi-html-nano.png)
+  ![Nano criando HTML](images/pi-html-nano.png)
 
- - If you're using [CodePen](http://codepen.io){:target="_blank"}, simply open up a new pen.
+ - Se estiveres a usar o [ CodePen ](http://codepen.io) {: target = "_ blank"}, basta abrires uma nova caneta.
