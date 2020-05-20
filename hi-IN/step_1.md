@@ -1,4 +1,4 @@
- -  यदि आप Windows पर Notepad का उपयोग कर रहे हैं, तो फ़ाइल का नाम `index.html` टाइप करें और ड्रॉप-डाउन को **Save as type** से **All files** में बदलें।
+ -  यदि आप Windows पर Notepad का उपयोग कर रहे हैं, तो फ़ाइल का नाम `index.html` टाइप करें और **Save as type** ड्रॉप-डाउन में **All files** चुने।
 
   ![नोटपैड का उपयोग करके HTML के रूप में सेव करें](images/save-as-html-notepad.png)
 
@@ -6,7 +6,7 @@
 
   ![Mac make plain text](images/mac-make-plaintext.png)
 
-  सुनिश्चित करें कि आपने फ़ाइल को `index.html` के रूप में सेव किया है।
+  सुनिश्चित करें कि आपने फ़ाइल को `index.html` के नाम से सेव किया है।
 
   ![Mac saving as HTML](images/mac-name-file.png)
 
@@ -14,4 +14,4 @@
 
   ![Nano creating HTML](images/pi-html-nano.png)
 
- - If you're using [CodePen](http://codepen.io){:target="_blank"}, simply open up a new pen.
+ - यदि आप [CodePen](http://codepen.io){:target="blank"} का उपयोग कर रहे हैं, तो बस एक नया Pen खोलें।
