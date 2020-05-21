@@ -1,4 +1,4 @@
- -  Se estiveres a usar o Bloco de notas do Windows, digita o nome do arquivo `index.html` e altera o menu suspenso **Salvar como ** para **Todos os arquivos**.
+ -  Se estiveres a usar o Bloco de notas do Windows, digita o nome do arquivo `index.html` e altera o menu suspenso **Salvar como** para **Todos os arquivos**.
 
   ![Salvar como HTML usando o bloco de notas](images/save-as-html-notepad.png)
 

@@ -14,4 +14,4 @@
 
   ![Nano創建網頁格式HTML](images/pi-html-nano.png)
 
- - 如果你使用的是 [ CodePen ](http://codepen.io){target="_blank"}，新增一個pen即可。
+ - 如果你使用的是 [CodePen](http://codepen.io){:target="_blank"}，新增一個pen即可。
