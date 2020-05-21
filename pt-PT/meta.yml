@@ -1,7 +1,7 @@
 ---
-title: Créer et enregistrer un fichier HTML
+title: Crie e salve um arquivo HTML
 hero_image: images/banner.png
-description: Créer et enregistrer un fichier HTML
+description: Crie e salve um arquivo HTML
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -11,4 +11,4 @@ copyedit: true
 interests: ""
 technologies: "html"
 steps:
-  - title: Créer et enregistrer un fichier HTML
+  - title: Criar e salvar e arquivo HTML
