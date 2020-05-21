@@ -1,7 +1,7 @@
 ---
-title: Créer et enregistrer un fichier HTML
+title: 新增並儲存HTML檔案
 hero_image: images/banner.png
-description: Créer et enregistrer un fichier HTML
+description: 新增並儲存HTML檔案
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -11,4 +11,4 @@ copyedit: true
 interests: ""
 technologies: "html"
 steps:
-  - title: Créer et enregistrer un fichier HTML
+  - title: 新增並儲存HTML檔案
