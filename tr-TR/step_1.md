@@ -1,17 +1,17 @@
- -  If you're using Notepad on Windows, type in the file name `index.html` and change the drop-down for the **Save as type** to **All files**.
+ -  Windows'ta Not Defteri kullanıyorsanız dosya adını `index.html` olarak yazın ve açılır menüdeki seçimi **Save as type** yerine **All files** olarak değiştirin.
 
-  ![Save as HTML using Notepad](images/save-as-html-notepad.png)
+  ![Not Defteri'ni kullanarak HTML olarak kaydet](images/save-as-html-notepad.png)
 
- - If you're using TextEdit on Mac OS, open a new file, then select **Format** > **Make Plain Text**.
+ - Mac OS'de TextEdit kullanıyorsanız, yeni bir dosya açın ve ardından **Format** > **Düz Metin Yap** seçin.
 
-  ![Mac make plain text](images/mac-make-plaintext.png)
+  ![Mac'de düz metin oluşturma](images/mac-make-plaintext.png)
 
-  Make sure you save the file as `index.html`.
+  Dosyayı `index.html` olarak kaydettiğinizden emin olun.
 
-  ![Mac saving as HTML](images/mac-name-file.png)
+  ![Mac'de HTML olarak kaydetme](images/mac-name-file.png)
 
- - If you're using Nano on a Raspberry Pi, open a terminal window, move to the directory you wish to create your webpage in, and type `nano index.html`.
+ - Raspberry Pi'de Nano kullanıyorsanız, bir terminal penceresi açın, web sayfanızı oluşturmak istediğiniz dizine gidin ve `nano index.html` yazın.
 
-  ![Nano creating HTML](images/pi-html-nano.png)
+  ![Nano'da HTML oluşturma](images/pi-html-nano.png)
 
- - If you're using [CodePen](http://codepen.io){:target="_blank"}, simply open up a new pen.
+ - Eğer [CodePen](http://codepen.io){:target="_blank"} kullanıyorsanız, sadece yeni bir kalem açın.
