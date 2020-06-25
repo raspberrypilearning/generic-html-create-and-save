@@ -14,4 +14,4 @@
 
   ![Nano 创建 HTML](images/pi-html-nano.png)
 
- - If you're using [CodePen](http://codepen.io){:target="_blank"}, simply open up a new pen.
+ - 如果您使用的是 [CodePen](http://codepen.io){:target="blank"}，只需打开一个新的 pen。
