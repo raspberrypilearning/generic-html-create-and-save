@@ -2,7 +2,7 @@
 
   ![Αποθήκευση ως HTML με τη χρήση του Σημειωματάριου](images/save-as-html-notepad.png)
 
- - Εάν χρησιμοποιείς το TextEdit σε Mac OS, άνοιξε ένα νέο αρχείο και στη συνέχεια επέλεξε **Διαμόρφωση** > **Μετατροπή σε απλό κείμενο**.
+ - Εάν χρησιμοποιείς το TextEdit σε Mac OS, άνοιξε ένα νέο αρχείο και στη συνέχεια επίλεξε **Διαμόρφωση** > **Μετατροπή σε απλό κείμενο**.
 
   ![Μετατροπή Mac σε απλό κείμενο](images/mac-make-plaintext.png)
 
@@ -14,4 +14,4 @@
 
   ![Nano δημιουργία HTML](images/pi-html-nano.png)
 
- - If you're using [CodePen](http://codepen.io){:target="_blank"}, simply open up a new pen.
+ - Εάν χρησιμοποιείς [CodePen](http://codepen.io){: target = "blank"}, απλώς άνοιξε μια νέα πένα.
