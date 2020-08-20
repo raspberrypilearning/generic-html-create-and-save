@@ -1,0 +1,14 @@
+---
+title: Bir HTML dosyası oluştur ve kaydet
+hero_image: images/banner.png
+description: Bir HTML dosyası oluştur ve kaydet
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+ingredient: true
+listed: false
+copyedit: true
+interests: ""
+technologies: "html"
+steps:
+  - title: HTML dosyası oluştur ve kaydet
