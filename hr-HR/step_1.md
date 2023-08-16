@@ -1,17 +1,17 @@
- -  If you're using Notepad on Windows, type in the file name `index.html` and change the drop-down for the **Save as type** to **All files**.
+ -  Ako koristiš Blok za pisanje (Notepad) u sustavu Windows, upiši naziv datoteke `index.html` i u padajućem izborniku **Spremi u obliku** odaberi **Sve datoteke**.
 
-  ![Save as HTML using Notepad](images/save-as-html-notepad.png)
+  ![Spremi kao HTML pomoću Bloka za pisanje](images/save-as-html-notepad.png)
 
- - If you're using TextEdit on Mac OS, open a new file, then select **Format** > **Make Plain Text**.
+ - Ako koristiš TextEdit u sustavu Mac OS, otvori novu datoteku, a zatim odaberi **Format** > **Izradi običan tekst**.
 
-  ![Mac make plain text](images/mac-make-plaintext.png)
+  ![Mac izradi običan tekst](images/mac-make-plaintext.png)
 
-  Make sure you save the file as `index.html`.
+  Obavezno spremi datoteku kao `index.html`.
 
-  ![Mac saving as HTML](images/mac-name-file.png)
+  ![Spremanje u HTML obliku na Macu](images/mac-name-file.png)
 
- - If you're using Nano on a Raspberry Pi, open a terminal window, move to the directory you wish to create your webpage in, and type `nano index.html`.
+ - Ako koristiš Nano na Raspberry Pi-u, otvori prozor terminala, otvori direktorij u kojem želiš napraviti svoju web stranicu i upiši `nano index.html`.
 
-  ![Nano creating HTML](images/pi-html-nano.png)
+  ![Nano stvaranje HTML-a](images/pi-html-nano.png)
 
- - If you're using [CodePen](http://codepen.io){:target="_blank"}, simply open up a new pen.
+ - Ako koristiš [CodePen](http://codepen.io){:target="_blank"}, jednostavno napravi novi "pen".
