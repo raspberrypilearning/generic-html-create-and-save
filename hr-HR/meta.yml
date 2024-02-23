@@ -1,0 +1,14 @@
+---
+title: Izradi i spremi HTML datoteku
+hero_image: images/banner.png
+description: Izradi i spremi HTML datoteku
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+ingredient: true
+listed: false
+copyedit: true
+interests: ""
+technologies: "html"
+steps:
+  - title: Stvaranje i spremanje HTML datoteke
